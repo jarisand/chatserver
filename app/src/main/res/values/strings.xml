@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChatServer</string>
+
+    <string name="writeText">Write here</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="dataParameter">DATAPARAMETER JIHUU</string>
+
+    <string name="submitted">CLICK TRY YEAHHH</string>
+    <string name="listed">mainin oncreatessa</string>
+    <string name="error">ERRORRRR</string>
+    <string name="error2">EKA ERRORRR</string>
+    <string name="menitry">TRY YEAHHH</string>
+    <string name="equal">EQUAL MENI</string>
+    <string name="handler">HANDLERISSAAA</string>
+
+</resources>
+
